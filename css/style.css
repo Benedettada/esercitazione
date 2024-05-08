@@ -625,6 +625,7 @@ section.fotoesempio p {
     body {
         width: 100%;
     }
+
 header nav ul {
     max-width: 100%;
     height: auto;
@@ -639,14 +640,6 @@ header nav ul {
     max-width: 100%;
     height: auto;
    }
-
-   main.titoli {
-    font-size: 24px;
-   }
-   
-section.titolo2 {
-    font-size: 14px;
-}
 
    p {
     font-size: 14px;
