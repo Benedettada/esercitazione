@@ -622,7 +622,10 @@ section.fotoesempio p {
         margin:0;
         padding: 0;
     }
-
+header {
+    max-width: 100%;
+    height: auto;
+}
     .container {
         width: 100%;
         padding: 10px;
