@@ -61,7 +61,7 @@ main.titoli h2 {
 }
 
 main.testo {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     font-size: 40px;
@@ -69,7 +69,7 @@ main.testo {
 }
 
 section.linea {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     height: 5px;
@@ -77,7 +77,7 @@ section.linea {
 }
 
 main.testo2 {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     font-size: 40px;
@@ -98,7 +98,7 @@ margin-bottom: 0px;
 }
 
 section.linea2 {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     height: 20px;
@@ -106,7 +106,7 @@ section.linea2 {
 }
 
 main.elenco {
-    max-width: 1300px;
+    max-width: 1200px;
     display: flex;
     justify-content: center;
     margin-left:200px;
@@ -619,9 +619,8 @@ section.fotoesempio p {
 @media screen (max-width:600px) {
     body {
         width: 100%;
-        margin:0;
-        padding: 0;
     }
+    
 header nav ul {
     max-width: 100%;
     height: auto;
