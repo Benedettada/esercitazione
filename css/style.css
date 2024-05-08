@@ -635,15 +635,12 @@ header nav ul {
     height: auto;
    }
 
-   main.titoli h2 {
+   main.titoli {
     font-size: 24px;
    }
    
    p {
     font-size: 14px;
    }
-   main.titoli h1 {
-    margin-bottom: 0px;
-    font-size: 24px;
-    }
+  
 }
