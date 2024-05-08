@@ -615,3 +615,7 @@ section.fotoesempio p {
     margin-left: 20px;
     text-decoration: underline;
 }
+
+@media(max-width:600px) {
+    font-size: 30px;
+}
