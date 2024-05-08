@@ -616,16 +616,10 @@ section.fotoesempio p {
     text-decoration: underline;
 }
 
-
-
-
-
 @media screen (max-width:600px) {
-   
     body {
         width: 100%;
     }
-
 header nav ul {
     max-width: 100%;
     height: auto;
@@ -641,8 +635,14 @@ header nav ul {
     height: auto;
    }
 
+   main.titoli h2 {
+    font-size: 24px;
+   }
+   
    p {
     font-size: 14px;
    }
-  
+   main.titoli h1 {
+    font-size: 24px;
+    }
 }
