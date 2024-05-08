@@ -616,7 +616,12 @@ section.fotoesempio p {
     text-decoration: underline;
 }
 
+
+
+
+
 @media screen (max-width:600px) {
+   
     body {
         width: 100%;
     }
@@ -645,6 +650,8 @@ section.titolo2 {
 
    p {
     font-size: 14px;
+    max-width: 100%;
+    height: auto;
    }
   
 }
