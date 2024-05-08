@@ -61,7 +61,7 @@ main.titoli h2 {
 }
 
 main.testo {
-    max-width: 1200px;
+    max-width: 1150px;
     margin: auto;
     display: flex;
     font-size: 40px;
@@ -69,7 +69,7 @@ main.testo {
 }
 
 section.linea {
-    max-width: 1200px;
+    max-width: 1150px;
     margin: auto;
     display: flex;
     height: 5px;
@@ -98,7 +98,7 @@ margin-bottom: 0px;
 }
 
 section.linea2 {
-    max-width: 1200px;
+    max-width: 1150px;
     margin: auto;
     display: flex;
     height: 20px;
@@ -106,7 +106,7 @@ section.linea2 {
 }
 
 main.elenco {
-    max-width: 1200px;
+    max-width: 1150px;
     display: flex;
     justify-content: center;
     margin-left:200px;
@@ -142,13 +142,13 @@ footer nav ul a {
 section.lineaartisti2 {
     height: 20px;
     background-color: black;
-    max-width: 1300px;
+    max-width: 1150px;
     margin: auto;
     display: flex;
 }
 
 .info-artisti {
-    max-width: 1300px;
+    max-width: 1150px;
     margin: auto;
     display: flex;
     font-size: 40px;
