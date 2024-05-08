@@ -85,7 +85,7 @@ main.testo2 {
 
 section.titolo2 {
     max-width: 1000px;
-    font-size: 45px;
+    font-size: 25px;
     justify-content: center;
     margin-left:600px;
     margin: auto;
@@ -110,7 +110,7 @@ main.elenco {
     display: flex;
     justify-content: center;
     margin-left:200px;
-    font-size: 45px;
+    font-size: 25px;
     margin: auto;
     display: flex;
 }
