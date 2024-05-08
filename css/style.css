@@ -85,7 +85,7 @@ main.testo2 {
 
 section.titolo2 {
     max-width: 1000px;
-    font-size: 25px;
+    font-size: 45px;
     justify-content: center;
     margin-left:600px;
     margin: auto;
@@ -134,7 +134,7 @@ footer nav ul a {
 
 .infoartisti {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     margin-top: 100px;
     color: #3E1717;
 }
@@ -160,7 +160,7 @@ section.lineaartisti2 {
 section.titoloartisti {
     margin: auto;
     display: flex;
-    font-size: 25px;
+    font-size: 45px;
     justify-content: center;
     margin-bottom: 0px;
     margin-top: 30px;
@@ -182,7 +182,7 @@ footer.artisti {
 
 .info-mostra {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     margin-top: 100px;
     color: #3E1717;
 }
@@ -228,7 +228,7 @@ footer.mostra {
 
 .info-utili {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     color: #562020;
 }
 
@@ -261,7 +261,7 @@ section.lineainfo2 {
 
 .titoloinfo {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     color: #562020;
 }
 
@@ -301,7 +301,7 @@ div.column a {
 
 section.jean {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -328,7 +328,7 @@ section.testojean p {
 
 section.hattie {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -354,7 +354,7 @@ section.testohattie p {
 
 section.paul {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -378,7 +378,7 @@ section.testopaul p {
 
 section.martina {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -402,7 +402,7 @@ section.testomartina p {
 
 section.adrian {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -426,7 +426,7 @@ section.testoadrian p {
 
 section.michelle {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -450,7 +450,7 @@ section.testomichelle p {
 
 section.sanna {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -474,7 +474,7 @@ section.testosanna p {
 
 section.emily {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
@@ -497,7 +497,7 @@ section.testoemily p {
 
 section.icinori {
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     background-color: #B7B2B2;
     max-width: 1000px;
     margin: auto;
