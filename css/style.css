@@ -616,7 +616,7 @@ section.fotoesempio p {
     text-decoration: underline;
 }
 
-@media(max-width:600px) {
+@media screen (max-width:600px) {
     body {
         width: 100%;
         margin:0;
