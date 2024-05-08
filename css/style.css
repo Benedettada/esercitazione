@@ -160,7 +160,7 @@ section.lineaartisti2 {
 section.titoloartisti {
     margin: auto;
     display: flex;
-    font-size: 50px;
+    font-size: 25px;
     justify-content: center;
     margin-bottom: 0px;
     margin-top: 30px;
@@ -190,14 +190,14 @@ footer.artisti {
 section.lineamostra {
     height: 20px;
     background-color: black;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     margin-bottom: 20px;
 }
 
 section.testomostra p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     font-size: 25px;
@@ -205,7 +205,7 @@ section.testomostra p {
 }
 
 section.testomostra h1 {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     font-size: 25px;
@@ -215,7 +215,7 @@ section.testomostra h1 {
 section.lineamostra2 {
     height: 20px;
     background-color: black;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     margin-bottom: 20px;
@@ -228,21 +228,21 @@ footer.mostra {
 
 .info-utili {
     text-align: center;
-    font-size: 45px;
+    font-size: 25px;
     color: #562020;
 }
 
 section.lineainfo {
     height: 10px;
     background-color: black;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     margin-bottom: 20px;
 }
 
 .testoinfo {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     text-align: center;
@@ -253,7 +253,7 @@ section.lineainfo {
 section.lineainfo2 {
     height: 10px;
     background-color: black;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     margin-bottom: 20px;
@@ -261,12 +261,12 @@ section.lineainfo2 {
 
 .titoloinfo {
     text-align: center;
-    font-size: 45px;
+    font-size: 25px;
     color: #562020;
 }
 
 .infotesto p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     font-size: 25px;
@@ -287,7 +287,7 @@ footer.info {
 
 div.conteiner {
     display: flex;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     justify-content: center;
     grid-column-gap: 100px;
@@ -295,31 +295,31 @@ div.conteiner {
 }
 
 div.column a {
-    font-size: 40px;
+    font-size: 25px;
     color: black;
 }
 
 section.jean {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
    
     
 }
 
 section.testojean p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 20px;
 }
 
 .containerfotohattie {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -328,23 +328,23 @@ section.testojean p {
 
 section.hattie {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testohattie p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 20px;
 }
 
 .containerfotojean {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -354,23 +354,23 @@ section.testohattie p {
 
 section.paul {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testopaul p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 20px;
 }
 
 .containerfotopaul {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -378,23 +378,23 @@ section.testopaul p {
 
 section.martina {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testomartina p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 20px;
 }
 
 .containerfotomartina {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -402,23 +402,23 @@ section.testomartina p {
 
 section.adrian {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testoadrian p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 20px;
 }
 
 .containerfotoadrian {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -426,23 +426,23 @@ section.testoadrian p {
 
 section.michelle {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testomichelle p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 50px;
 }
 
 .containerfotomichelle {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -450,23 +450,23 @@ section.testomichelle p {
 
 section.sanna {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testosanna p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 50px;
 }
 
 .containerfotosanna {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
     
@@ -474,109 +474,109 @@ section.testosanna p {
 
 section.emily {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testoemily p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 50px;
 }
 
 .containerfotoemily {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
 }
 
 section.icinori {
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #B7B2B2;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
 }
 
 section.testoicinori p {
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
-    font-size: 40px;
+    font-size: 25px;
    margin-bottom: 50px;
 }
 
 .containerfotoicinori {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 100px;
 }
 
 section.gruppo2 {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2sanna {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2emily {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2martina {
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2adrian{
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2michelle{
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2paul{
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2hattie{
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
 
 section.gruppo2jean{
     columns: 4;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 50px;
 }
