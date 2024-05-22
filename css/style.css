@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -13,6 +14,9 @@ header {
 header p a {
     list-style-type: none;
     color: white;
+    display: flex;
+    justify-content: center;
+    padding-left: 24px   ;
 }
 
 header nav ul {
@@ -21,6 +25,7 @@ header nav ul {
     gap: 20px;
     font-size: 30px;
     width: 100%;
+    padding-right: 24px;
 }
 
 header nav ul a {
@@ -616,7 +621,7 @@ section.fotoesempio p {
     text-decoration: underline;
 }
 
-@media screen (max-width:600px) {
+@media (max-width:600px) {
     body {
         width: 100%;
     }
