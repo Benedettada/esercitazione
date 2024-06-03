@@ -117,6 +117,11 @@ main.elenco {
     font-size: 25px;
     margin: auto;
     display: flex;
+    
+}
+
+main.elenco a {
+    color: black;
 }
 
 
