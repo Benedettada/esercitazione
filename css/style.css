@@ -249,7 +249,6 @@ section.lineainfo {
     max-width: 1000px;
     margin: auto;
     display: flex;
-    text-align: center;
     font-size: 25px;
    margin-bottom: 20px;
 }
