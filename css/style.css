@@ -607,7 +607,6 @@ section.lineamostra2 {
 
 section.fotoesempio {
     max-width: 1300px;
-    
     height: 500px;
     margin: auto;
     display: flex;
@@ -615,7 +614,7 @@ section.fotoesempio {
 }
 
 section.fotoesempio p {
-    font-size: 45px;
+    font-size: 20px;
     margin-left: 20px;
     text-decoration: underline;
 }
