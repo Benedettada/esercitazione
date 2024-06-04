@@ -35,7 +35,7 @@ header p {
     color: #FFFFFF;
 }
 main.titoli {
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     font-size: 60px;
@@ -65,7 +65,7 @@ main.titoli h2 {
 }
 
 main.testo {
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     font-size: 25px;
